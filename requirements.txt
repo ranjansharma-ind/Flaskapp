@@ -1,0 +1,4 @@
+virtualenv
+flask
+Flask-PyMongo
+bcrypt
