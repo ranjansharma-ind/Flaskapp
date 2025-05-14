@@ -1,5 +1,5 @@
 virtualenv
 flask
-Flask-PyMongo
-bcrypt
 Flask-SQLAlchemy
+mysqlclient
+datetime
