@@ -1,7 +1,2 @@
 virtualenv
 flask
-Flask-SQLAlchemy
-mysqlclient
-datetime
-gunicorn
-mysql-connector-python
